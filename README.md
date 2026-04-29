@@ -1,2 +1,2 @@
- pandas series reision 
+ pandas series revision 
  have fun!!
